@@ -47,4 +47,8 @@ public class Show {
         }
         System.out.println("Актера с такой фамилией нет!");
     }
+
+    public void directorInt() {
+        System.out.println(director.toString());
+    }
 }

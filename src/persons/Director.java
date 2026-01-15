@@ -8,10 +8,6 @@ public class Director extends Person {
         this.numberOfShows = numberOfShows;
     }
 
-    public void directorInf() {
-        System.out.println(toString());
-    }
-
     @Override
     public String toString() {
         return super.toString() + ".";

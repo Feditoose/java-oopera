@@ -52,8 +52,6 @@ public class Theatre {
         opera.printLibrettoText();
         System.out.println("Балет:");
         ballet.printLibrettoText();
-
-        //'не хватает метода "Распечатать информацию о режиссере"'- есть, directorInf,
-        //просто в задании нет пункта с его использованием
+        
     }
 }
